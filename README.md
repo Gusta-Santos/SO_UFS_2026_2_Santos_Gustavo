@@ -1,6 +1,7 @@
 # SO_UFS_2026_2_Santos_Gustavo
 
 ## Link para o vídeo
+https://youtu.be/jNw7emq7aOQ
 
 ## Link do modelo hugging face  
 https://huggingface.co/microsoft/Phi-4-mini-instruct  
