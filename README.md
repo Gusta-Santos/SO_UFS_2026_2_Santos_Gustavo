@@ -4,7 +4,7 @@
 
 ## Link do modelo hugging face  
 https://huggingface.co/microsoft/Phi-4-mini-instruct  
-https://huggingface.co/bartowski/Phi-4-mini-instruct-GGUF
+https://huggingface.co/unsloth/Phi-4-mini-instruct-GGUF
 
 ## Link do repositório original  
 Foi utilizada a branch main do repositório original da trilha C  
