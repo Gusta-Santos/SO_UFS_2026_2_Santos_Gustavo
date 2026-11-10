@@ -1,0 +1,12 @@
+=== CONTÊINER A ===
+PID_host=739
+sleep
+pid:[4026532526]
+mnt:[4026532523]
+net:[4026532527]
+=== CONTÊINER B ===
+PID_host=788
+sleep
+pid:[4026532636]
+mnt:[4026532633]
+net:[4026532637]
